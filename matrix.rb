@@ -1,5 +1,3 @@
-require 'rational'
-
 class NotSquaredMatrix < Exception
   def message
    "Matrix is not squared!"
