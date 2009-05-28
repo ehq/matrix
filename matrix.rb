@@ -116,6 +116,7 @@ class Matrix
 
 end
 
+# TODO move the following to another file
 class Vector
   attr_accessor :elements
 
