@@ -48,7 +48,7 @@ class Matrix
     self.class.new(new_matrix)
   end
 
-  # The determinant is calculated with cofactors. It´s the sum of the product
+  # The determinant is calculated with cofactors. It is the sum of the product
   # of each element in the first row (alternating the sign) times the
   # determinant of the trim_matrix
   def determinant
